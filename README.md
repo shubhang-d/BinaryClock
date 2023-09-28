@@ -3,9 +3,9 @@ This is a Binary Clock whics shows the current time in Binary(0s and 1s) Format.
 
 ## Notes
 1) Three Files have been created here for HTML, CSS, and Javascript respectively.
-2) You can find the code in this Repostory.
-3) You can git clone this repository and run this Code
-4) This code is updated every 1ms.
+2) This code is updated every 1ms.
+3) It shows Hours, minutes, seconds,milliseconds in Binary Format.
+4) Green Colour is used to represent 1s and white colours is used to represent 0s.
 
 ## OUPTUT
 [Output Of Binary Clock](https://github.com/shubhang-d/BinaryClock/assets/143957984/1ca15b67-b165-4889-bd6b-0f3dbf053102)
